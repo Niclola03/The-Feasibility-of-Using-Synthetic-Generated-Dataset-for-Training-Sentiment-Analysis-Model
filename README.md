@@ -22,3 +22,8 @@ reviews, without using quotation marks, and the word ”I”,
 
 # Data File
 Data are stored as a CSV file named Dataset
+
+#Citation
+If you use this dataset in a scientific publication, we would appreciate using the following citations:
+
+Nugroho, B., Widjaja, D., Wijaya, N., Sutoyo, R. (2024). The Feasibility of Using Synthetic-Generated Dataset for Training Sentiment Analysis Model.
