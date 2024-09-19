@@ -20,3 +20,5 @@ reviews, without using quotation marks, and the word ”I”,
 reviews, without using quotation marks, and the word ”I”,
 ”The”, and ”This”
 
+# Data File
+Data are stored as a CSV file named Dataset
